@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adam-dorin
 - 👀 I’m interested in gaming and godot
 - 🌱 I’m currently learning godot
-- 📫 How to reach me adam@hellionhedgehog.games
+- 📫 How to reach me dorin@hellionhedgehog.games
 
 <!---
 - 💞️ I’m looking to collaborate on ...
